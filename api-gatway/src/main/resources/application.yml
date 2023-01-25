@@ -2,7 +2,7 @@ server:
   port: ${PORT:8765}
 spring:
   application:
-    name: api-gatway
+    name: api-gateway
   cloud:
     gateway:
       discovery:
